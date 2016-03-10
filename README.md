@@ -4,6 +4,7 @@ This is my Patchwork Amsterdam repository with great references for places to ea
 ```ruby
 puts 'Hello World!'
 ```
+hallo dit is amsterdam zuid in een cafe.
 
 No, this is not really about code development. Please share your favorite places in Amsterdam to get food and drinks. Please add them under the relevant section.
 
